@@ -1,0 +1,10 @@
+Runtime for building look up table in Figure 2: 1.188301
+Memory for look up table in Figure 2: 364615KB.
+
+Runtime for building look up table in Figure 3: 0.035524
+Memory for look up table in Figure 3: 64945KB.
+
+Performance for 10000000 random query:
+Binary search in each array: 54.844914
+Speed up with table in Figure 2: 4.230136
+Speed up with table in Figure 3: 10.322949

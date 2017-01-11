@@ -1,0 +1,100 @@
+      Number of Opeartions: 1000
+Delete Test of Size_Balanced_Tree:
+Average runtime: 0.000525 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_1_BST:
+Average runtime: 0.000574 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_2_BST:
+Average runtime: 0.000429 / 1000 detete (delete 1/5 of nodes).
+
+Insertion Test of Size_Balanced_Tree:
+Average runtime: 0.000362 / 1000 insertions.
+Average height: 12.100000 / 1000 insertions.
+Insertion Test of Model_1_BST:
+Average runtime: 0.000451 / 1000 insertions.
+Average height: 22.600000 / 1000 insertions.
+Insertion Test of Model_2_BST:
+Average runtime: 0.000276 / 1000 insertions.
+Average height: 22.200000 / 1000 insertions.
+
+Find Test of Size_Balanced_Tree:
+Average runtime: 0.000146 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_1_BST:
+Average runtime: 0.000223 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_2_BST:
+Average runtime: 0.000166 / 1000 lookup (1/2 hit, 1/2 miss).
+
+Number of Opeartions: 10000
+Delete Test of Size_Balanced_Tree:
+Average runtime: 0.000852 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_1_BST:
+Average runtime: 0.001284 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_2_BST:
+Average runtime: 0.001017 / 1000 detete (delete 1/5 of nodes).
+
+Insertion Test of Size_Balanced_Tree:
+Average runtime: 0.000667 / 1000 insertions.
+Average height: 16.000000 / 10000 insertions.
+Insertion Test of Model_1_BST:
+Average runtime: 0.000764 / 1000 insertions.
+Average height: 32.800000 / 10000 insertions.
+Insertion Test of Model_2_BST:
+Average runtime: 0.000417 / 1000 insertions.
+Average height: 33.200000 / 10000 insertions.
+
+Find Test of Size_Balanced_Tree:
+Average runtime: 0.000347 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_1_BST:
+Average runtime: 0.000474 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_2_BST:
+Average runtime: 0.000434 / 1000 lookup (1/2 hit, 1/2 miss).
+
+Number of Opeartions: 100000
+Delete Test of Size_Balanced_Tree:
+Average runtime: 0.001556 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_1_BST:
+Average runtime: 0.002183 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_2_BST:
+Average runtime: 0.001837 / 1000 detete (delete 1/5 of nodes).
+
+Insertion Test of Size_Balanced_Tree:
+Average runtime: 0.001228 / 1000 insertions.
+Average height: 20.100000 / 100000 insertions.
+Insertion Test of Model_1_BST:
+Average runtime: 0.001686 / 1000 insertions.
+Average height: 41.600000 / 100000 insertions.
+Insertion Test of Model_2_BST:
+Average runtime: 0.001100 / 1000 insertions.
+Average height: 40.600000 / 100000 insertions.
+
+Find Test of Size_Balanced_Tree:
+Average runtime: 0.000863 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_1_BST:
+Average runtime: 0.001406 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_2_BST:
+Average runtime: 0.000970 / 1000 lookup (1/2 hit, 1/2 miss).
+
+Number of Opeartions: 1000000
+Delete Test of Size_Balanced_Tree:
+Average runtime: 0.002466 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_1_BST:
+Average runtime: 0.003520 / 1000 detete (delete 1/5 of nodes).
+Delete Test of Model_2_BST:
+Average runtime: 0.003293 / 1000 detete (delete 1/5 of nodes).
+
+Insertion Test of Size_Balanced_Tree:
+Average runtime: 0.002508 / 1000 insertions.
+Average height: 24.000000 / 1000000 insertions.
+Insertion Test of Model_1_BST:
+Average runtime: 0.003135 / 1000 insertions.
+Average height: 49.800000 / 1000000 insertions.
+Insertion Test of Model_2_BST:
+Average runtime: 0.002347 / 1000 insertions.
+Average height: 50.600000 / 1000000 insertions.
+
+Find Test of Size_Balanced_Tree:
+Average runtime: 0.001751 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_1_BST:
+Average runtime: 0.002765 / 1000 lookup (1/2 hit, 1/2 miss).
+Find Test of Model_2_BST:
+Average runtime: 0.002175 / 1000 lookup (1/2 hit, 1/2 miss).
+
